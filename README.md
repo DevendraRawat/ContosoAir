@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://devendra.visualstudio.com/pipelinelab/_apis/build/status/DevendraRawat.ContosoAir?branchName=master)](https://devendra.visualstudio.com/pipelinelab/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
